@@ -1,4 +1,5 @@
-# CHANGING THE README
+# Changed Title (Again)
+
 
 This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
 
